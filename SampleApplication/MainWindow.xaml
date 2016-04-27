@@ -9,7 +9,7 @@
     <Grid>
         <StackPanel>
             <TextBlock Text="Hello World!" FontSize="64pt"/>
-            <TextBlock Text="Hello pull request!" FontSize="40pt"/>
+            <TextBlock Text="Second pull request!" FontSize="40pt"/>
         </StackPanel>
     </Grid>
 </Window>
