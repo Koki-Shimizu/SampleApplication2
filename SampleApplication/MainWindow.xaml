@@ -10,6 +10,7 @@
         <StackPanel>
             <TextBlock Text="Hello World!" FontSize="64pt"/>
             <TextBlock Text="Second pull request!" FontSize="40pt"/>
+            <TextBlock Text="Pull reqが自分のコードにも反映された！"  FontSize="18pt"/>
         </StackPanel>
     </Grid>
 </Window>
