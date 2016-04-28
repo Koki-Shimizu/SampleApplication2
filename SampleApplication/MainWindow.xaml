@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <TextBlock Text="Hello World!" FontSize="64pt"/>
+        <StackPanel>
+            <TextBlock Text="Hello World!" FontSize="64pt"/>
+            <TextBlock Text="Second pull request!" FontSize="40pt"/>
+        </StackPanel>
     </Grid>
 </Window>
